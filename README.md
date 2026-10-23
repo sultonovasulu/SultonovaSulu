@@ -1,9 +1,13 @@
 ### 👋 Men haqimda
 Salom! Men informatika va axborot texnologiyalari o‘qituvchisiman!
 
+--- 
+
 - 👨‍🏫 **Kasbim:** Informatika va axborot texnologiyalari o‘qituvchisi
 - 🏫 **Ish joyim:** Urganch raqamli texnologiyalar texnikumi № 2
 - 📍 **Manzil:** Urganch, O‘zbekiston 🇺🇿
+
+---
 
 ### 💻 Men o‘qitadigan fanlar
 - Informatika
@@ -16,6 +20,8 @@ Salom! Men informatika va axborot texnologiyalari o‘qituvchisiman!
 - Dasturlash va dasturiy ta’minot yaratish
 - Raqamli ta’lim resurslari
 - Innovatsion o‘qitish usullari
+
+---
 
 ### 🚀 Maqsadim
 O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobiliyatini rivojlantirish va ularni raqamli kelajakka tayyorlash.
