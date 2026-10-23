@@ -8,7 +8,6 @@ Salom! Men informatika va axborot texnologiyalari o‘qituvchisiman!
 ### 🔗 Mening GitHub profilim
 - **GitHub username:** `sultonovasulu`
 - **GitHub profilim:** https://github.com/sultonovasulu
-- **Repository:** https://github.com/sultonovasulu/SultonovaSulu
 
 ### 💻 Men o‘qitadigan fanlar
 - Informatika
