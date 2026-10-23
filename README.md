@@ -1,4 +1,3 @@
-
 ##👋 Hello, I'm an Informatics Teacher!
 
 Welcome to my GitHub profile!
