@@ -1,4 +1,4 @@
-##👋 Hello, I'm an Informatics Teacher!
+👋 Hello, I'm an Informatics Teacher!
 
 Welcome to my GitHub profile!
 
