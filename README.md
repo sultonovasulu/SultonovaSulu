@@ -28,13 +28,14 @@ O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobili
 
 💡 **Shiorim:** Texnologiyani o‘rgatish, innovatsiyalarni ilhomlantirish!
 
-### 🛠️ Texnologiyalar
-Python, HTML, CSS, JavaScript va boshqa tegishli dasturlash texnologiyalari uchun chiroyli belgilar qo‘sh.
+---
 
 ### 📊 GitHub statistikasi
 - GitHub profil statistikasi
 - Eng ko‘p ishlatiladigan dasturlash tillari
 - GitHub faolligi va yutuqlari
+
+---
 
 ### 📬 Men bilan bog‘lanish
 - **Telegram:** https://t.me/Sultonova_Saida
