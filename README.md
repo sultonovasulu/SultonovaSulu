@@ -1,27 +1,41 @@
-👋 Hello, I'm an Informatics Teacher!
+Men uchun GitHub profilimni zamonaviy, chiroyli va professional tarzda yaratib ber.
 
-Welcome to my GitHub profile!
+### 👋 Men haqimda
+Salom! Men informatika va axborot texnologiyalari o‘qituvchisiman!
 
-👨‍🏫 Profession: Informatics & Information Technology Teacher
-🏫 Workplace: Urgench Digital Technologies Technical School No. 2
-📍 Location: Urgench, Uzbekistan 🇺🇿
+- 👨‍🏫 **Kasbim:** Informatika va axborot texnologiyalari o‘qituvchisi
+- 🏫 **Ish joyim:** Urganch raqamli texnologiyalar texnikumi № 2
+- 📍 **Manzil:** Urganch, O‘zbekiston 🇺🇿
 
-💻 What I Teach
+### 💻 Men o‘qitadigan fanlar
+- Informatika
+- Axborot texnologiyalari
+- Raqamli savodxonlik
+- Dasturlash asoslari
 
-- Informatics
-- Information Technology
-- Digital Literacy
-- Programming Fundamentals
+### 🎯 Qiziqishlarim
+- Ta’lim texnologiyalari
+- Dasturlash va dasturiy ta’minot yaratish
+- Raqamli ta’lim resurslari
+- Innovatsion o‘qitish usullari
 
-🎯 My Interests
+### 🚀 Maqsadim
+O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobiliyatini rivojlantirish va ularni raqamli kelajakka tayyorlash.
 
-- Educational Technology
-- Programming and Software Development
-- Digital Learning Resources
-- Innovative Teaching Methods
+💡 **Shiorim:** Texnologiyani o‘rgatish, innovatsiyalarni ilhomlantirish!
 
-🚀 My Goal
+### 📊 GitHub statistikasi
+- GitHub profil statistikasi
+- Eng ko‘p ishlatiladigan dasturlash tillari
+- GitHub faolligi va yutuqlari
 
-To help students gain practical IT skills, develop logical thinking, and prepare for a digital future.
+### 🛠️ Texnologiyalar
+Python, HTML, CSS, JavaScript va boshqa tegishli texnologiyalar uchun chiroyli belgilar qo‘sh.
 
-Teaching technology, inspiring innovation! 💡
+### 📂 Loyihalarim
+Dasturlash loyihalari, informatika bo‘yicha o‘quv materiallari va ta’limiy resurslar uchun alohida bo‘lim yarat.
+
+### 📬 Men bilan bog‘lanish
+- **Telegram:** [@Sultonova_Saida](https://t.me/Sultonova_Saida)
+- **GitHub:** Profilim havolasini joylashtirish uchun mos bo‘lim yarat.
+
