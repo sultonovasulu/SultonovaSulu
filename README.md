@@ -1,11 +1,14 @@
-Men uchun GitHub profilimni zamonaviy, chiroyli va professional tarzda yaratib ber.
-
 ### 👋 Men haqimda
 Salom! Men informatika va axborot texnologiyalari o‘qituvchisiman!
 
 - 👨‍🏫 **Kasbim:** Informatika va axborot texnologiyalari o‘qituvchisi
 - 🏫 **Ish joyim:** Urganch raqamli texnologiyalar texnikumi № 2
 - 📍 **Manzil:** Urganch, O‘zbekiston 🇺🇿
+
+### 🔗 Mening GitHub profilim
+- **GitHub username:** `sultonovasulu`
+- **GitHub profilim:** https://github.com/sultonovasulu
+- **Repository:** https://github.com/sultonovasulu/SultonovaSulu
 
 ### 💻 Men o‘qitadigan fanlar
 - Informatika
@@ -24,18 +27,18 @@ O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobili
 
 💡 **Shiorim:** Texnologiyani o‘rgatish, innovatsiyalarni ilhomlantirish!
 
+### 🛠️ Texnologiyalar
+Python, HTML, CSS, JavaScript va boshqa tegishli dasturlash texnologiyalari uchun chiroyli belgilar qo‘sh.
+
 ### 📊 GitHub statistikasi
 - GitHub profil statistikasi
 - Eng ko‘p ishlatiladigan dasturlash tillari
 - GitHub faolligi va yutuqlari
 
-### 🛠️ Texnologiyalar
-Python, HTML, CSS, JavaScript va boshqa tegishli texnologiyalar uchun chiroyli belgilar qo‘sh.
-
 ### 📂 Loyihalarim
-Dasturlash loyihalari, informatika bo‘yicha o‘quv materiallari va ta’limiy resurslar uchun alohida bo‘lim yarat.
+Dasturlash loyihalari, informatika bo‘yicha o‘quv materiallari va ta’limiy resurslar uchun alohida bo‘lim yarat. Mavjud loyihalarimni ko‘rsatishda yuqoridagi GitHub repository havolasidan foydalan.
 
 ### 📬 Men bilan bog‘lanish
-- **Telegram:** [@Sultonova_Saida](https://t.me/Sultonova_Saida)
-- **GitHub:** Profilim havolasini joylashtirish uchun mos bo‘lim yarat.
+- **Telegram:** https://t.me/Sultonova_Saida
+- **GitHub:** https://github.com/sultonovasulu
 
