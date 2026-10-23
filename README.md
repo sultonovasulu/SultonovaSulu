@@ -30,9 +30,6 @@ Python, HTML, CSS, JavaScript va boshqa tegishli dasturlash texnologiyalari uchu
 - Eng ko‘p ishlatiladigan dasturlash tillari
 - GitHub faolligi va yutuqlari
 
-### 📂 Loyihalarim
-Dasturlash loyihalari, informatika bo‘yicha o‘quv materiallari va ta’limiy resurslar uchun alohida bo‘lim yarat. Mavjud loyihalarimni ko‘rsatishda yuqoridagi GitHub repository havolasidan foydalan.
-
 ### 📬 Men bilan bog‘lanish
 - **Telegram:** https://t.me/Sultonova_Saida
 - **GitHub:** https://github.com/sultonovasulu
