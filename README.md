@@ -44,4 +44,5 @@ O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobili
 ---
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sultonova_Saida)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
