@@ -40,7 +40,7 @@ O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobili
 ### 📬 Men bilan bog‘lanish
 - **Telegram:** https://t.me/Sultonova_Saida
 - **GitHub:** https://github.com/sultonovasulu
-
+- **Gmail:** https://gmail.com/sultonovasulu
 ---
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sultonova_Saida)
