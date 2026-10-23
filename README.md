@@ -5,10 +5,6 @@ Salom! Men informatika va axborot texnologiyalari o‘qituvchisiman!
 - 🏫 **Ish joyim:** Urganch raqamli texnologiyalar texnikumi № 2
 - 📍 **Manzil:** Urganch, O‘zbekiston 🇺🇿
 
-### 🔗 Mening GitHub profilim
-- **GitHub username:** `sultonovasulu`
-- **GitHub profilim:** https://github.com/sultonovasulu
-
 ### 💻 Men o‘qitadigan fanlar
 - Informatika
 - Axborot texnologiyalari
