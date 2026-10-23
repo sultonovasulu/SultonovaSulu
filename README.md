@@ -38,7 +38,7 @@ O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobili
 ---
 
 ### 📬 Men bilan bog‘lanish
-- **Telegram:** https://t.me/Sultonova_Saida
+- **Telegram:** https://t.me/Sultonboyeva_Saida
 - **GitHub:** https://github.com/sultonovasulu
 - **Gmail:** https://gmail.com/sultonovasulu
 
