@@ -41,8 +41,4 @@ O‘quvchilarga amaliy IT ko‘nikmalarini o‘rgatish, mantiqiy fikrlash qobili
 - **Telegram:** https://t.me/Sultonova_Saida
 - **GitHub:** https://github.com/sultonovasulu
 - **Gmail:** https://gmail.com/sultonovasulu
----
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sultonova_Saida)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
